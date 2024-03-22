@@ -10,7 +10,7 @@ function Header() {
        <p>Registration</p>
        <p>EMail</p>
        <p>About</p>
-       
+       <p>Contact</p>
        </div>
     </div>
   );
